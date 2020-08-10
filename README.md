@@ -3,7 +3,7 @@
   <img src="https://miro.medium.com/max/505/1*wQO2Thx_rHrs51QYjzKLWw.png">
 </p>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/NvsYashwanth)
 * This repository hosts solutions to the problems in `Cracking The Coding Interview - Gayle Laakmann McDowell` 
 
 ## `PLEASE SCROLL TO THE BOTTOM OF THE PAGE TO READ THE CONTRIBUTION GUIDELINES`:zap:
