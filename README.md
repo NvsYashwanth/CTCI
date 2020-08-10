@@ -1,6 +1,6 @@
 # [Cracking The Coding Interview](http://www.crackingthecodinginterview.com/)
 <p align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/I/71jRvBEDNmL.jpg">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/71jRvBEDNmL.jpg" width="193" height="130">
 </p>
 * This repository hosts solutions to the problems in `Cracking The Coding Interview - Gayle Laakmann McDowell`
 
