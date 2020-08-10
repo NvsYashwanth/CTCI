@@ -3,7 +3,8 @@
   <img src="https://miro.medium.com/max/505/1*wQO2Thx_rHrs51QYjzKLWw.png">
 </p>
 
-* This repository hosts solutions to the problems in `Cracking The Coding Interview - Gayle Laakmann McDowell`
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+* This repository hosts solutions to the problems in `Cracking The Coding Interview - Gayle Laakmann McDowell` 
 
 ## `PLEASE SCROLL TO THE BOTTOM OF THE PAGE TO READ THE CONTRIBUTION GUIDELINES`:zap:
 
