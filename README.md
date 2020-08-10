@@ -9,4 +9,4 @@
 
 ## Note :pushpin:
 * The table below summarizes this repo
-* For each problem corresponding solutions for `C++` and `Python` are mentioned as `Yes` or `No` indicating the availability of the solution in that specific language in the repository. Clicking on `Yes` for corresponding problem will take you to the repo link of problem solution.
+* For each problem corresponding solution in `Python` is mentioned as `Yes` or `No` indicating the availability of the solution in the repository. Clicking on `Yes` for corresponding problem will take you to the repo link of problem solution.
