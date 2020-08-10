@@ -1,4 +1,7 @@
 # [Cracking The Coding Interview](http://www.crackingthecodinginterview.com/)
+<p align="center">
+  <img src="https://images-na.ssl-images-amazon.com/images/I/71jRvBEDNmL.jpg">
+</p>
 * This repository hosts solutions to the problems in `Cracking The Coding Interview - Gayle Laakmann McDowell`
 
 ## `PLEASE SCROLL TO THE BOTTOM OF THE PAGE TO READ THE CONTRIBUTION GUIDELINES`:zap:
